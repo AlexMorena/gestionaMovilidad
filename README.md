@@ -10,6 +10,24 @@ El Ayuntamiento de la ciudad ha implementado restricciones de tráfico durante e
 ✅ **Restricción de horarios** para vehículos de logística.  
 ✅ **Registro de usuarios** para acceder a la funcionalidad de detección de infractores.  
 
+## 📂 Estructura del Proyecto
+```
+gestionaMovilidad/
+│── 🔺 index.html                # Página principal con autenticación y acceso a funcionalidades
+│── 📜 formularioLogistica.html         # Formulario para logística
+│── 🟣 formularioLogistica.php          # Validacion para logistica
+│── 📜 formularioResidentes.html         # Formulario para residentes
+│── 🟣 formularioResidentes.php          # Validacion para logistica
+│── 📜 formularioServicios.html         # Formulario para servicios
+│── 🟣 formularioServicios.php          # Validacion para logistica
+│── 📜 formularioTaxis.html        # Formulario para taxis
+│── 🟣 formularioTaxis.php         # Validacion para logistica
+│── 📜 formularioVehiculosEMT.html         # Formulario para vehiculosEMT
+│── 🟣 formularioVehiculosEMT.php          # Validacion para logistica
+│──  ❗ infractores.php               # Listado de todos los infractores
+│── 🎨 estilosFormularios.css                     # Estilos de la plataforma
+```
+
 ## 🛠️ Instalación
 
 1️⃣ **Clona este repositorio** en tu equipo local:
