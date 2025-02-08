@@ -57,6 +57,6 @@ Este proyecto es de código abierto y puede usarse con fines educativos y de des
 ## 📧 Contacto
 Si tienes dudas o sugerencias, contáctanos:
 📩 **alexmorena2002@gmail.com**  
-💼 [LinkedIn](https://linkedin.com](https://www.linkedin.com/in/alejandro-morena-rodriguez/))  
+💼 [LinkedIn](https://www.linkedin.com/in/alejandro-morena-rodriguez/)  
 
 🚀 ¡Gracias por colaborar y mejorar la movilidad en la ciudad! 🎉
