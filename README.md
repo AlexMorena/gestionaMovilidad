@@ -55,19 +55,8 @@ http://localhost/gestion-movilidad/movilidad.php
 - Introducir un rango de fechas válido.
 - La aplicación identificará los vehículos sin permiso y mostrará la lista de infractores.
 
-## 🤝 Cómo Contribuir
-Si quieres mejorar la aplicación:
-1. Haz un **fork** del repositorio 🍴
-2. Crea una nueva rama 📂:
-   ```bash
-   git checkout -b nueva-funcionalidad
-   ```
-3. Realiza los cambios y súbelos 📤:
-   ```bash
-   git commit -m "Mejora en validación de permisos"
-   git push origin nueva-funcionalidad
-   ```
-4. Abre un **Pull Request** 🔄
+## 🤝 Contribución
+Si deseas mejorar este proyecto, revisa el archivo `CONTRIBUIR.md` para más detalles sobre cómo contribuir. 🎉
 
 ## 📜 Licencia
 Este proyecto es de código abierto y puede usarse con fines educativos y de desarrollo. 📚
